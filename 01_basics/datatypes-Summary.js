@@ -28,7 +28,7 @@ let myObj={
 
 
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-//stack(primitive), heap(non primitive)
+//stack(primitive)--> copy value, heap(non primitive)--> reference to original value
 
 let myYoutubeName= "BROTHERHOOD GAMING"
 
